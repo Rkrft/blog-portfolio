@@ -10,4 +10,4 @@ __Served by Caddy__
 
 
 
-   <img src="https://cdn-icons-png.flaticon.com/512/2282/2282188.png" width="50" height="50"class="center" >
+   <img src="https://cdn-icons-png.flaticon.com/512/2282/2282188.png" width="50" height="50"class="center">
