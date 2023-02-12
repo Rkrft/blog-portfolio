@@ -7,6 +7,10 @@ __Served by Caddy__
 
 `Theme = m10c`
 
+<pre>
+<a href="www.google.com">Something</a>
+</pre>
+
 
 
 
