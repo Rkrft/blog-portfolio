@@ -5,7 +5,7 @@
 
 __Served by Caddy__
 
-![ Icon name](https://cdn-icons-png.flaticon.com/512/3211/3211281.png) 
+![ Icon name](https://cdn-icons-png.flaticon.com/512/2282/2282188.png) 
 
 
 `Theme = m10c`
