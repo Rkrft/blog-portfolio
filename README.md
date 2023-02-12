@@ -9,7 +9,7 @@ __Served by Caddy__
 
 
 
-<a href= "https://github.com/vaga/hugo-theme-m10c" title= "m10c">
+<a href= "https://github.com/vaga/hugo-theme-m10c" title="m10c">
 
    <img src="https://cdn-icons-png.flaticon.com/512/2282/2282188.png" width="150" height="150" class="center">
    
