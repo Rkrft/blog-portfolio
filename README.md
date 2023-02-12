@@ -1,9 +1,9 @@
 # blog-portfolio
-**a simple blog/portfolio generated with Hugo SSG**
+**A simple blog/portfolio generated with Hugo SSG**
 
 
 
-__served by Caddy__
+__Served by Caddy__
 
 `Theme = m10c`
 
