@@ -5,8 +5,8 @@
 
 __Served by Caddy__
 
-![ Icon name](https://cdn-icons-png.flaticon.com/512/2282/2282188.png) 
+![ Icon name]() 
 
-<img src="fa-crown.svg" width="50" height="50">
+<img src="https://cdn-icons-png.flaticon.com/512/2282/2282188.png" width="50" height="50">
 
 `Theme = m10c`
