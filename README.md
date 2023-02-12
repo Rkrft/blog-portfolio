@@ -13,7 +13,7 @@ __served by Caddy__
  
    
    
-   <a href= "rkracht.com" title= "rkracht">
+   <a href= "https://rkracht.com" title= "rkracht">
    
 
    <img src="https://cdn-icons-png.flaticon.com/512/2282/2282188.png" width="150" height="150" class="center">
