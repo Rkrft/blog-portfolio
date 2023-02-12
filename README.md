@@ -11,3 +11,6 @@ __Served by Caddy__
 
 
    <img src="https://cdn-icons-png.flaticon.com/512/2282/2282188.png" width="150" height="150" class="center">
+   
+   
+   <a href="https://www.flaticon.com/free-icons/web-development" title="web development icons">Web development icons created by Freepik - Flaticon</a>
