@@ -7,7 +7,7 @@ __Served by Caddy__
 
 `Theme = m10c`
 <body>
-<a href= "https://github.com/vaga/hugo-theme-m10c" title="m10c">
+<a href="https://github.com/vaga/hugo-theme-m10c" title="m10c">
    </body>
   
  
