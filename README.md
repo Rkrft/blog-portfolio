@@ -24,6 +24,6 @@ __served by Caddy__
    
   
    
-   <a href="https://github.com/vaga/hugo-theme-m10c"> (m10c)</a>
+   <a href="https://github.com/vaga/hugo-theme-m10c"> m10c</a>
   
    <a href="https://www.flaticon.com/free-icons/web-development"> icons by Freepik - Flaticon</a>
