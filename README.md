@@ -3,7 +3,7 @@
 
 
 
-__Served by Caddy__
+__served by Caddy__
 
 `Theme = m10c`
 
