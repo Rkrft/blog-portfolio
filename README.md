@@ -3,7 +3,7 @@
 
 
 
-__served by Caddy__ __@ rkracht.com__
+__served by Caddy__
 
 `Theme = m10c`
 
